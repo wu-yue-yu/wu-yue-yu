@@ -1,0 +1,88 @@
+{
+  "avatar": {
+    "src": "https://s1.ax1x.com/2022/04/18/LdL5kQ.jpg",
+    "hidden": false
+  },
+  "profile": {
+    "name": "周添帝",
+    "email": "ztd1217@qq.com",
+    "mobile": "15729869670",
+    "github": "https://github.com/wu-yue-yu",
+    "zhihu": "https://www.zhihu.com/people/a-e-22-68-11",
+    "workExpYear": "",
+    "positionTitle": ""
+  },
+  "educationList": [
+    {
+      "edu_time": ["2019.09.01", "至今"],
+      "school": "成都理工大学",
+      "major": "电子信息工程",
+      "academic_degree": "本科"
+    }
+  ],
+  "awardList": [
+    {
+      "award_info": "英语 CET6",
+      "award_time": "2020"
+    },
+    {
+      "award_info": "蓝桥杯大赛软件组(C++)省三等奖",
+      "award_time": "2020.10"
+    },
+    {
+      "award_info": "全国大学生创新创业大赛省级项目",
+      "award_time": "2021.10"
+    },
+    {
+      "award_info": "全国大学生嵌入式系统设计竞赛省二等奖",
+      "award_time": "2021.10"
+    }
+  ],
+  "workExpList": [
+  {
+    "company_name": "",
+    "department_name": "",
+    "work_time": "",
+    "work_desc": ""
+  },
+  ],
+  "skillList": [
+    {
+      "skill_name": "C",
+      "skill_desc": "较熟练地使用C进行单片机开发，也写过一些算法题",
+      "skill_level": 75
+    },
+    {
+      "skill_name": "Linux",
+      "skill_desc": "使用Ubuntu系统训练并部署过YOLOv5目标检测算法，且在JetsonNano平台上稳定运行",
+      "skill_level": 70
+    }
+  ],
+  "projectList": [
+    {
+      "project_name": "全国大学生嵌入式系统设计竞赛",
+      "project_role": "人工智能模型部署部分负责人",
+      "project_time": "2021.06 - 2021.10",
+      "project_desc": "在STM32开发板中部署并运行目标检测算法。",
+      "project_content": "在Art-Pi开发板上，配合RT-Thread操作系统，部署了YOLO-Fastest目标检测模型，依靠实现人形检测"
+    },
+    {
+      "project_name": "全国大学生创新创业竞赛省级项目“基于微型机器学习的智能监测系统”",
+      "project_role": "技术负责人",
+      "project_time": "2020 - 2022",
+      "project_desc": "在嵌入式平台上部署摔倒检测算法，并利用物联网组件实现网络远程摄像头监控的功能",
+      "project_content": "利用摔图片数据集，训练摔倒检测模型，以目标检测算法YoloV5n实现摔倒检测。依托嵌入式物联网平台，将摔倒检测算法部署到JetsonNano开发板中，\n1并利用内网穿透和开源SDK组件，实现网络远程监控摄像头功能，可实时在手机或电脑端查看摄像头画面。"
+    },
+    {
+     "project_name": "基于嵌入式开发板的口罩佩戴检测系统",
+     "project_role": "技术负责人",
+     "project_time": "2021.11",
+     "project_desc": "利用人工智能嵌入式开发板，实现了一个口罩佩戴检测系统",
+     "project_content": "在GPU服务器上训练口罩佩戴检测模型，以目标检测算法YoloV5n实现口罩佩戴检测。最后将训练好的摔倒检测算法部署到JetsonNano开发板中，最后经过测试，无论是在多人，还是距离较远的情况下，均能获得较好的检测效果。"
+    },
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "热爱电子工程领域，对相关技术有强烈兴趣。在本科期间通过各种比赛和项目，培养了较强的动手能力以及自学能力。"
+  }
+}
